@@ -149,6 +149,10 @@ a {
 
 @media (max-width: 500px){
   .cont1H1{
-    font-size: 48px;
+    font-size: 33px;
   }
+
+  .regions{
+    font-size: 16px;
 }
+
