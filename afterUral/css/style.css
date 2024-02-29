@@ -145,3 +145,10 @@ a {
   justify-content: center;
   padding-bottom: 9%;
 }
+
+
+@media (max-width: 500px){
+  .cont1H1{
+    font-size: 48px;
+  }
+}
